@@ -9,11 +9,10 @@
 ## Overview
 A production-ready WordPress plugin that integrates intelligent, highly customizable floating chatbots powered by OpenAI, Google Gemini, and Anthropic. Deliver instant, automated AI support to your visitors without writing a single line of code.
 
-> 🖼️ **[Screenshot / Demo Video Placeholder]** Add your UI image here.
+<img width="1859" height="859" alt="{FED5391D-20C1-4337-9E90-D267D8BC1693}" src="https://github.com/user-attachments/assets/356bf5e1-1ee0-4850-a62e-93ff460184ae" />
+
 
 ## 🔗 Quick Links
-- [Live Demo](#) <!-- Placeholder -->
-- [Video Tutorial](#) <!-- Placeholder -->
 - [Report a Bug](https://github.com/sohaibahmed2610/ai-chatbot-plugin-for-wordpress/issues)
 
 ## 📑 Table of Contents
@@ -66,7 +65,7 @@ A production-ready WordPress plugin that integrates intelligent, highly customiz
 
 ### API Configuration
 1. Navigate to the new **AI Chatbot** menu in your WordPress sidebar.
-2. Select your desired **AI Provider** from the dropdown menu.
-3. Enter your provider's **API Key** and the specific **Model** you wish to use (e.g., `gpt-4o-mini`).
+2. Select your desired **AI Provider** from the dropdown menu (gemini , open ai , clade).
+3. Enter your provider's **API Key** and the specific **Model** you wish to use (e.g., gpt-4o-mini , gemini 3.1 flash live etc).
 4. (Optional) Provide custom **Instructions** to define the chatbot's persona.
 5. Click **Save Changes**. The chatbot will now automatically appear on your website!
